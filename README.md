@@ -3,7 +3,7 @@
 
 Data Normalization and Encoding using Python
 
-##v**Aim**
+## **Aim**
 
 To apply data normalization and encoding techniques to prepare datasets for analysis and machine learning.
 
